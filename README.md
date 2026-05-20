@@ -23,8 +23,7 @@
         <img src="https://shields.io" alt="Python" />
         <img src="https://shields.io" alt="JavaScript" />
         <img src="https://shields.io" alt="C" />
-        <img src="https://shields.io++
--00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+        <img src="https://shields.io" alt="C++" />
         <img src="https://shields.io" alt="Ruby" />
       </p>
       <p>
@@ -65,8 +64,7 @@
         <img src="https://shields.io" alt="Python" />
         <img src="https://shields.io" alt="JavaScript" />
         <img src="https://shields.io" alt="C" />
-        <img src="https://shields.io++
--00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+        <img src="https://shields.io" alt="C++" />
         <img src="https://shields.io" alt="Ruby" />
       </p>
       <p>
