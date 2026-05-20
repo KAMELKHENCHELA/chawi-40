@@ -1,8 +1,10 @@
 <div align="center">
   <h1>👋 Welcome to my Profile | أهلاً بك في ملفي الشخصي</h1>
+  <p>Transforming complex ideas into elegant, high-performance digital solutions.</p>
+  <p>تحويل الأفكار المعقدة إلى حلول رقمية أنيقة وعالية الأداء.</p>
 </div>
 
-<br>
+<hr />
 
 <table width="100%">
   <tr>
@@ -14,14 +16,24 @@
         <li><strong>Role:</strong> Web, Software & Mobile App Developer</li>
         <li><strong>Brand:</strong> Founder of DevPro</li>
         <li><strong>Location:</strong> Khenchela, Algeria 🇩🇿</li>
-        <li><strong>Passion:</strong> Transforming complex ideas into elegant, high-performance digital solutions.</li>
       </ul>
-      
+
       <h3>🛠️ Tech Stack & Skills</h3>
+      <p>
+        <img src="https://shields.io" alt="Python" />
+        <img src="https://shields.io" alt="JavaScript" />
+        <img src="https://shields.io" alt="C" />
+        <img src="https://shields.io++
+-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+        <img src="https://shields.io" alt="Ruby" />
+      </p>
+      <p>
+        <img src="https://shields.io" alt="Git" />
+        <img src="https://shields.io" alt="GitHub" />
+        <img src="https://shields.io" alt="VS Code" />
+      </p>
       <ul>
-        <li><strong>Languages:</strong> Python, JavaScript, C, C++, Ruby</li>
         <li><strong>Services:</strong> POS Systems, Pharmacy & Inventory Management, E-commerce, AI Solutions</li>
-        <li><strong>Tools:</strong> Git, GitHub, VS Code</li>
       </ul>
 
       <h3>🚀 Current Status</h3>
@@ -32,8 +44,8 @@
 
       <h3>📬 Connect with me</h3>
       <ul>
-        <li>🌐 <a href="https://devpro-81625.firebaseapp.com/">Portfolio (DevPro)</a></li>
-        <li>✈️ <a href="https://t.me">Telegram</a></li>
+        <li>🌐 <a href="https://devpro-81625.firebaseapp.com/" target="_blank">Portfolio (DevPro)</a></li>
+        <li>✈️ <a href="https://t.me/Chawikhenchela" target="_blank">Telegram</a></li>
         <li>📧 Email: <a href="mailto:kamelkhenchela@gmail.com">kamelkhenchela@gmail.com</a></li>
       </ul>
     </td>
@@ -46,14 +58,24 @@
         <li><strong>التخصص:</strong> مطور مواقع، برامج، وتطبيقات</li>
         <li><strong>الهوية التجارية:</strong> مؤسس DevPro</li>
         <li><strong>الموقع:</strong> خنشلة، الجزائر 🇩🇿</li>
-        <li><strong>الشغف:</strong> تحويل الأفكار المعقدة إلى حلول رقمية أنيقة وعالية الأداء.</li>
       </ul>
 
       <h3>🛠️ المهارات والخدمات</h3>
+      <p>
+        <img src="https://shields.io" alt="Python" />
+        <img src="https://shields.io" alt="JavaScript" />
+        <img src="https://shields.io" alt="C" />
+        <img src="https://shields.io++
+-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+        <img src="https://shields.io" alt="Ruby" />
+      </p>
+      <p>
+        <img src="https://shields.io" alt="Git" />
+        <img src="https://shields.io" alt="GitHub" />
+        <img src="https://shields.io" alt="VS Code" />
+      </p>
       <ul>
-        <li><strong>اللغات:</strong> Python, JavaScript, C, C++, Ruby</li>
         <li><strong>الخدمات:</strong> أنظمة POS، إدارة الصيدليات والمخازن، المتاجر الإلكترونية، حلول الذكاء الاصطناعي</li>
-        <li><strong>الأدوات:</strong> Git, GitHub, VS Code</li>
       </ul>
 
       <h3>🚀 مشاريعي الحالية</h3>
@@ -64,16 +86,10 @@
 
       <h3>📬 تواصل معي</h3>
       <ul>
-        <li>🌐 <a href="https://devpro-81625.firebaseapp.com/">الموقع الشخصي (DevPro)</a></li>
-        <li>✈️ <a href="https://t.me">تليغرام</a></li>
+        <li>🌐 <a href="https://devpro-81625.firebaseapp.com/" target="_blank">الموقع الشخصي (DevPro)</a></li>
+        <li>✈️ <a href="https://t.me/Chawikhenchela" target="_blank">تليغرام</a></li>
         <li>📧 البريد الإلكتروني: <a href="mailto:kamelkhenchela@gmail.com">kamelkhenchela@gmail.com</a></li>
       </ul>
     </td>
   </tr>
 </table>
-
-<hr>
-
-<div align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</div>
