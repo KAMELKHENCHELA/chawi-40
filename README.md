@@ -42,7 +42,7 @@
     <td width="50%" valign="top" dir="rtl">
       <h3>👤 من أنا؟</h3>
       <ul>
-        <li><strong>الاسم:</strong> كامل زردوم</li>
+        <li><strong>الاسم:</strong> كمال زردوم</li>
         <li><strong>التخصص:</strong> مطور مواقع، برامج، وتطبيقات</li>
         <li><strong>الهوية التجارية:</strong> مؤسس DevPro</li>
         <li><strong>الموقع:</strong> خنشلة، الجزائر 🇩🇿</li>
